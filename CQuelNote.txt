@@ -1,0 +1,22 @@
+		The Numaligarh Refinery Limited(NRL) is a division of Oil India Limited which is under the ownership of Ministry of Petroleum and Natural Gas, Government of India. As of 2014, it had a capacity of 3 
+million metric tonnes per year. In January 2019, the Cabinet Committee on Economic Affairs approved plans to increase the refinery's capacity to 9 million metric tonnes per year(MMTPA).
+After getting approval for the expansion proposal of the existing refinery, NRL needs to require a huge number of workers for completion of the project in the given timeframe. Moreover, for the smooth
+funtioning of the existing refinery also, NRL needs a huge workforce. Therefore, to meet the requirement from operation as well as project point of view, NRL is engaging workers in various
+fields such as maintenance, project, onetime, contractual worker etc. Onboarding of these workers are done through Saral Pravesh and their details are maintained in the Saral Pravesh database.
+		
+		For compliance of labour law, NRL has introduced C-Quel for regular support as well as maintenance and tracking of the labour law compliance. C-Quel has a cloud based database/system
+hosted in their cloud and they want to use it in NRL for compliance management of the contract workers engaged by NRL in various maintenance as well as project related jobs. 
+C-Quel compliance management system requires workers data to be configured in their compliance management system for regular monitoring of the compliance by NRL and the contractors.
+Keeping in mind this requirement, it is required to develop a mechanism/solution to share workers' data maintained in Saral Pravesh system with C-Quel online system to avoid any manual
+processing of data. Therefore IIS department is requested to develop a solution to meet the requirement.
+
+		Necessary NDA will be collected from C-Quel authority as per compliance of Information Security Policy(ISP) to maintain the confidentiality of the data to be shared with C-Quel.
+IIS department has been requested to develop an online mechanism(e.g: Web API, Interface) for sharing of NRL's workers' data with C-Quel compliance management system with an objective
+to maintain compliance as per for the above mentioned requirement.
+
+
+Initiated By: Mintu Handique(GM HR), Bishajit Bora(DGM HR)
+
+Approved By: Kajal Saikia(CGM HR-Legal)
+
+Work Order Number: 4300072067
